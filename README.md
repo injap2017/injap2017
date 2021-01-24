@@ -1,13 +1,13 @@
 <div align="center">
   <h2> 
-    Hi, there! I am JayB <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+    Hi, there! I am Edgar <img src="https://github.com/injap2017/injap2017/blob/main/gifs/hi.gif" width="30px">
   </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/)](https://www.upwork.com/fl/edgarsia/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/jaybkim/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/kogisin_jayb/)
 
 🔭 &nbsp;I am currently working in blockchain industry.\
 💡 &nbsp;I like to explore new technologies and look for a way to create the things that change the world.\
@@ -22,8 +22,8 @@
 </div>
 <p align="center">
   <a href="https://github.com/kogisin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kogisin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kogisin&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=injap2017&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=injap2017&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 

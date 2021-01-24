@@ -1,4 +1,8 @@
-### Hi there, I'm ✨ [Edgar][website] ✨ - [iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />][websitekm] 👋 
+<div align="center">
+  <h2> 
+    Hi there, I'm ✨ [Edgar][website] ✨ - [iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />][websitekm] 👋
+  </h2>
+</div> 
 
 ### 👨🏻‍💻 &nbsp;About Me
 

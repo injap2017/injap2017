@@ -1,42 +1,72 @@
+<div align="center">
+  <h2> 
+    Hi, there! I am JayB <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
+  </h2>
+</div>
 
-# Hi, I'm Kevin Tuazon (:coffee::computer::bulb::heart:)
-I'm a software developer from the Philippines!
+### 👨🏻‍💻 &nbsp;About Me
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevin.tuazonx) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvntzn) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-tuazon/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kvntzn) [![Website](https://img.shields.io/website?label=kvntzn&style=for-the-badge&url=https%3A%2F%2Fkvntzn.github.io)](https://kvntzn.github.io)
-- 📱 I’m currently working on JS Frameworks!
-- 🌱 I’m currently learning up to date technology trends
-- 💂‍ I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💥 Fun fact: I love photography and play lead guitar 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/jaybkim/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/kogisin_jayb/)
 
+🔭 &nbsp;I am currently working in blockchain industry.\
+💡 &nbsp;I like to explore new technologies and look for a way to create the things that change the world.\
+✍️ &nbsp;In my free time, I like to grap a beer and watch Netflix and chill.
 
-## :wrench: Technologies
+### ⚙️ &nbsp;GitHub Analytics
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VS](https://img.icons8.com/color/30/visual-studio-2019.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Xamarin](https://img.icons8.com/color/30/xamarin.png)![Kotlin](https://img.icons8.com/color/30/kotlin.png)![SQL](https://img.icons8.com/color/30/sql.png)![Mongo](https://img.icons8.com/color/30/mongodb.png)![Firebase](https://img.icons8.com/color/30/firebase.png)![Azure](https://img.icons8.com/color/30/azure.png)![Android](https://img.icons8.com/color/30/android-os.png)![iOS](https://img.icons8.com/color/30/mac-os.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
+<div align="center">
+  <h4> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/kogisin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kogisin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kogisin&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-## :headphones: Spotify Playing
+### 🛠 &nbsp;Tech Stack
 
-[![Spotify](https://novatorem.kvntzn.vercel.app/api/spotify)](https://open.spotify.com/user/22thtl7hfddgqx4cz7bctd2za)
+Technologies that I've been learning and I've picked up along my programming journey.
 
+#### ₿ Blockchain : <br />
 
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-05122A?style=flat&logo=Bitcoin&logoColor=FFA518)
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum&logoColor=FFA518)
+![Cosmos](https://img.shields.io/badge/-Cosmos-05122A?style=flat&logo=Cosmos&logoColor=FFA518)
+![EOS](https://img.shields.io/badge/-EOS-05122A?style=flat&logo=EOS&logoColor=FFA518)
+![Qtum](https://img.shields.io/badge/-Qtum-05122A?style=flat&logo=Qtum&logoColor=FFA518)
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+#### ✨ Backend : <br />
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kvntzn)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=FFA518)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
+![gRPC](http://img.shields.io/badge/-gRPC-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1)
 
-</details>
+#### 🌐 Frontend : <br />
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-[![Kevin Tuazon Github Stats](https://kvntzn-github-readme-stats.vercel.app/api?username=kvntzn&show_icons=true&hide_border=true)](https://github.com/kvntzn/github-readme-stats) [![Top Language](https://kvntzn-github-readme-stats.vercel.app/api/top-langs?username=kvntzn&show_icons=true&layout=compact&hide_border=true&hide=php&langs_count=8)](https://github.com/kvntzn/github-readme-stats)
-</details>
+#### 🛠 OS & IDE & Tools <br />
 
----
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-:computer: Made with :heart: by **Kevin Tuazon**
-
-
-[website]: https://kvntzn.github.io
-[linkedin]: https://linkedin.com/in/kevin-tuazon/
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)

@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi there, I'm ✨ [Edgar][website] ✨ - [iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />][websitekm] 👋
+    Hi there, I'm ✨ <a href="https://upwork.com/fl/edgarsia">Edgar</a> ✨ - iOS <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> 👋
   </h2>
 </div> 
 

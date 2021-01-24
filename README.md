@@ -1,8 +1,4 @@
-<div align="center">
-  <h2> 
-    ### Hi there, I'm ✨ [Edgar][website] ✨ - as [KilukruMedia][websitekm] 👋 
-  </h2>
-</div>
+### Hi there, I'm ✨ [Edgar][website] ✨ - as [Sr. iOS Developer][websitekm] 👋 
 
 ### 👨🏻‍💻 &nbsp;About Me
 

@@ -1,14 +1,15 @@
 <div align="center">
   <h2> 
-    Hi, there! I am Edgar <img src="https://github.com/injap2017/injap2017/blob/main/gifs/hi.gif" width="30px">
+    ### Hi there, I'm ✨ [Edgar][website] ✨ - as [KilukruMedia][websitekm] 👋 
   </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/)](https://www.upwork.com/fl/edgarsia/)
+[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/)](https://www.upwork.com/fl/edgarsia/)[website]
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/jaybkim/)
 
+👨🏻‍💻 &nbsp;Developer with more then 12 years experience\
 🔭 &nbsp;I am currently working in blockchain industry.\
 💡 &nbsp;I like to explore new technologies and look for a way to create the things that change the world.\
 ✍️ &nbsp;In my free time, I like to grap a beer and watch Netflix and chill.
@@ -69,4 +70,4 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=injap2017/injap2017)

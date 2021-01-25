@@ -34,8 +34,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://www.upwork.com/fl/injap2017/"><img src="https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/"/></a>
-<a href= "https://www.linkedin.com/in/edgarsia/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarsia/"/></a>
+<a href= "https://www.upwork.com/fl/edgarsia/"><img src="https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/"/></a>
+<a href= "https://www.linkedin.com/in/edgar-sia/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgar-sia/"/></a>
 
 </p>
 

@@ -5,7 +5,7 @@
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior iOS Engineer at Upwork Inc.
+* 💼   <a href = "https://www.upwork.com/fl/edgarsia/">Senior iOS Engineer</a> at Upwork Inc.
 * 🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
 * 🌱   Currently learning server-less architecture and AWS cloud.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.

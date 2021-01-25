@@ -23,7 +23,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <p align="center">
 <a href= "https://aiia.com.au/iawards"><img src="https://github.com/injap2017/injap2017/blob/master/icons/iawards.png" height="100" width="100"/></a>
-<a href= "https://www.upwork.com/fl/edgarsia"><img src="https://github.com/injap2017/injap2017/blob/master/icons/toprated.png" height="100" width="100"/></a>
+<a href= "https://www.upwork.com/fl/edgarsia"><img src="https://github.com/injap2017/injap2017/blob/master/icons/toprated.png" height="100" width="129"/></a>
 <a href= "https://developer.apple.com"><img src="https://github.com/injap2017/injap2017/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
@@ -36,10 +36,6 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <p align="center">
 <a href= "https://www.upwork.com/fl/injap2017/"><img src="https://img.shields.io/badge/-Upwork-green?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/fl/edgarsia/"/></a>
 <a href= "https://www.linkedin.com/in/edgarsia/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarsia/"/></a>
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=injap2017.injap2017" alt="visitor badge"/>       
-</p>
 
 </p>
 
